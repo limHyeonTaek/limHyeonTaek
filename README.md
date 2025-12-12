@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![hylim's 42 stats](https://badge.mediaplus.ma/landscapes/hylim?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <!--
 **limHyeonTaek/limHyeonTaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
